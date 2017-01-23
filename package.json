@@ -1,6 +1,6 @@
 {
   "name": "swagger-test-gen-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minuscule cli to generate tests boilerplate with swagger-test-templates",
   "main": "index.js",
   "repository": "https://github.com/xvaldetaro/swagger-test-gen-cli.git",
